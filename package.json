@@ -1,0 +1,23 @@
+{
+  "name": "wdv4416_1.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "total.test.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CruzNicholas-FS/WDV4416_1.4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CruzNicholas-FS/WDV4416_1.4/issues"
+  },
+  "homepage": "https://github.com/CruzNicholas-FS/WDV4416_1.4#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
